@@ -1,0 +1,3 @@
+C:/Users/ikerf/CLionProjects/Caso_Integrador/cmake-build-debug/CMakeFiles/Caso_Integrador.dir
+C:/Users/ikerf/CLionProjects/Caso_Integrador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ikerf/CLionProjects/Caso_Integrador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
