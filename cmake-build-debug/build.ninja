@@ -67,6 +67,18 @@ build CMakeFiles/Caso_Integrador.dir/Json_Tostring.cpp.obj: CXX_COMPILER__Caso_I
   OBJECT_DIR = CMakeFiles\Caso_Integrador.dir
   OBJECT_FILE_DIR = CMakeFiles\Caso_Integrador.dir
 
+build CMakeFiles/Caso_Integrador.dir/from_Json.cpp.obj: CXX_COMPILER__Caso_Integrador_unscanned_Debug C$:/Users/ikerf/CLionProjects/Caso_Integrador/from_Json.cpp || cmake_object_order_depends_target_Caso_Integrador
+  DEP_FILE = CMakeFiles\Caso_Integrador.dir\from_Json.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Caso_Integrador.dir
+  OBJECT_FILE_DIR = CMakeFiles\Caso_Integrador.dir
+
+build CMakeFiles/Caso_Integrador.dir/Todo_Junto.cpp.obj: CXX_COMPILER__Caso_Integrador_unscanned_Debug C$:/Users/ikerf/CLionProjects/Caso_Integrador/Todo_Junto.cpp || cmake_object_order_depends_target_Caso_Integrador
+  DEP_FILE = CMakeFiles\Caso_Integrador.dir\Todo_Junto.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Caso_Integrador.dir
+  OBJECT_FILE_DIR = CMakeFiles\Caso_Integrador.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Caso_Integrador
@@ -75,7 +87,7 @@ build CMakeFiles/Caso_Integrador.dir/Json_Tostring.cpp.obj: CXX_COMPILER__Caso_I
 #############################################
 # Link the executable Caso_Integrador.exe
 
-build Caso_Integrador.exe: CXX_EXECUTABLE_LINKER__Caso_Integrador_Debug CMakeFiles/Caso_Integrador.dir/Clase_variant.cpp.obj CMakeFiles/Caso_Integrador.dir/To_String.cpp.obj CMakeFiles/Caso_Integrador.dir/Json_Tostring.cpp.obj
+build Caso_Integrador.exe: CXX_EXECUTABLE_LINKER__Caso_Integrador_Debug CMakeFiles/Caso_Integrador.dir/Clase_variant.cpp.obj CMakeFiles/Caso_Integrador.dir/To_String.cpp.obj CMakeFiles/Caso_Integrador.dir/Json_Tostring.cpp.obj CMakeFiles/Caso_Integrador.dir/from_Json.cpp.obj CMakeFiles/Caso_Integrador.dir/Todo_Junto.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Caso_Integrador.dir
