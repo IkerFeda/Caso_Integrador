@@ -4,4 +4,5 @@ project(Caso_Integrador)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Caso_Integrador
-        Clase_variant.cpp)
+        Clase_variant.cpp
+        To_String.cpp)
